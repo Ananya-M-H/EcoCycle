@@ -1,0 +1,11 @@
+node_modules/
+.env
+.env.*
+!.env.example
+uploads/*
+!uploads/.gitkeep
+blockchain/artifacts/
+blockchain/cache/
+blockchain/deployments/*.json
+coverage/
+npm-debug.log*
